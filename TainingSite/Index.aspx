@@ -25,7 +25,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>My PAGE</h1>
+            <h1>My Registration Page</h1>
 
 
             <table>
